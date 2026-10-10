@@ -3,7 +3,7 @@
     <remote name="git-hub" fetch="https://github.com/" />
     <remote name="git-lab" fetch="https://gitlab.com/" />
 
-    <project path="device/phh/treble" name="TrebleDroid/device_phh_treble" remote="git-hub" revision="android-16.0" />
+    <project path="device/phh/treble" name="TB-X505X-Labs/device_phh_treble" remote="git-hub" revision="android-16.0" />
     <project path="treble_app" name="TrebleDroid/treble_app" remote="git-hub" revision="master" />
     <project path="vendor/hardware_overlay" name="MisterZtr/vendor_hardware_overlay" remote="git-hub" revision="main" />
     <project path="vendor/vndk-tests" name="phhusson/vendor_vndk-tests" remote="git-hub" revision="master" />
